@@ -1,9 +1,11 @@
-import Counter from "./Counter/Counter";
+import Accordion from "./Accordion/Accordion";
+// import Counter from "./Counter/Counter";
 
 const Main = () => {
   return (
     <>
-      <Counter />
+      {/* <Counter /> */}
+      <Accordion />
     </>
   );
 };
