@@ -18,6 +18,27 @@ const accordionData = [
     content:
       "Content for Accordion 3: lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
+  {
+    title: "Accordion 4",
+    content:
+      "Content for Accordion 4: lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    title: "Accordion 5",
+    content:
+      "Content for Accordion 5: lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    title: "Accordion 6",
+    content:
+      "Content for Accordion 6: lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    title: "Accordion 7",
+    content:
+      "Content for Accordion 7: lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+
 ];
 
 const Accordion = () => {
