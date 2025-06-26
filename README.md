@@ -1,4 +1,4 @@
-# Machine Coding App Start
+# Machine Coding App
 
 This project is a **Machine Coding App** designed to enhance frontend development skills and upgrade coding practices. It is built using **React** with **Vite** for a fast and efficient development experience.
 
